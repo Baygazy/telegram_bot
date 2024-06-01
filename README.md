@@ -1,3 +1,5 @@
 # Установка библиотеки aiogram
-<pip install -U aiogram>
+```
+pip install -U aiogram
+```
 ************************
